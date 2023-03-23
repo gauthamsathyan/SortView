@@ -1,4 +1,4 @@
-# SortView: Visualizing Sorting Algorithms in Python with PyQt5
+# SortView: Visualizing Sorting Algorithms
 
 ## Introduction
 SortView is an interactive and educational tool for visualizing sorting algorithms, built using Python and PyQt5. With SortView, users can experiment with different sorting algorithms and see the sorting process in real-time, providing a hands-on and intuitive learning experience.
