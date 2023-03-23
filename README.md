@@ -6,9 +6,7 @@ SortView is an interactive and educational tool for visualizing sorting algorith
 
 ### Demo
 
-
-![sort image](https://user-images.githubusercontent.com/29195832/194810759-18078cd0-7a64-46ac-b199-691ee7c45fa2.png)
-
+![image](https://user-images.githubusercontent.com/29195832/227257530-66859d29-1e32-46a6-96c7-4dc8613a91c4.png)
 
 ### Features
 
